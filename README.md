@@ -4,6 +4,11 @@ sistema de venta y administración de boletos aéreos
 Link de TRELLO
 https://trello.com/invite/b/68a5dc407c94cf05d6608688/ATTIb3b71990969fce1dc7ff2146742342dd46472A23/proyectodwf
 
+Daniel Alexander Girón Cornejo GC221469 
+Cristian Gerardo Ventura Rendón VR221500 
+Francisco Armando Morales Flores MF230357 
+Diego Fernando Ruiz Valle RV232739 
+
 Cobertura funcional esperada: El sistema deberá ser capaz de gestionar aerolíneas, aeropuertos, rutas, aeronaves, tripulación y pasajeros infinitos; así como soportar búsqueda de vuelos, selección de asiento, creación de reserva, pago, cancelación y gestión de reclamos infinitos. 
 
 Consistencia de datos: Con restricciones relacionales y controles transaccionales permiten que un asiento no pueda asignarse a su vez a una reserva y que las operaciones críticas sean atómicas.
